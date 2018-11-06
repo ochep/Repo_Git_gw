@@ -11,7 +11,7 @@ class Home extends React.Component {
     super(props);
     this.state = {
       eventDetail: {
-        judul: "Hacktiv8 Meetup",
+        judul: "Hacktiv8 Meetup ",
         lokasi: "Jakarta",
         members: 1201,
         orgainzer: "iboy",
@@ -19,7 +19,7 @@ class Home extends React.Component {
           "https://hacktiv8.com/img/logo-01--md5--0f4f1c19c0064d527c72d44cfe007a08.png"
       },
       meetUp: {
-        judulMeetup: "Meetup iboy",
+        judulMeetup: "Meetup React Native Git",
         tglMeetup: "11 October 2018",
         subjectMeetup:
           "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur subtitle2. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur body1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur, neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam."
